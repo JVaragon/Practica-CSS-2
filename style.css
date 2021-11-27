@@ -1,0 +1,53 @@
+h1#Valencia{
+    background-color: rgb(89, 202, 247);
+    text-align: center;
+}
+hr{
+    width: 500px;
+}
+p.centrado{
+    text-align: center;
+}
+img.img1{
+    height: 150px;
+    width: 150px; 
+}
+img.img1:hover{
+    opacity: 0.5;
+}
+hr.azul {
+    height: 10px;
+    background-color: blue;
+    width: auto;
+  }
+  
+ p.historia{
+     text-align: center;
+ }
+
+p.marcado:hover{
+    background-color: rgb(89, 202, 247) ;
+}
+ section.Seccion-historia{
+     text-align: center;
+     display: inline;
+ }
+
+
+  p.parrafada{
+      color: blue;
+      background-image: url(./imagenes/valencia_antigua.jpg);
+      background-repeat: no-repeat;
+      width: 500px; height: auto;
+      border: black 3px solid;
+  }
+
+  section.img2{
+      background-color: rgb(89, 202, 247);
+  }
+  img.img2{
+    display:block;
+    margin:auto;
+    height: 200px;
+    width: 200px; 
+  }
